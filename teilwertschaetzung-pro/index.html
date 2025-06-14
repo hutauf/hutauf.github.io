@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Teilwertschätzung Pro</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.23/jspdf.plugin.autotable.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
+    <style>
+      body {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+      }
+      /* Ensure icons are sized consistently */
+      .icon-sm { width: 1.25rem; height: 1.25rem; }
+      .icon-md { width: 1.5rem; height: 1.5rem; }
+      .icon-lg { width: 2rem; height: 2rem; }
+
+      /* Basic styling for login form elements for fallback/consistency */
+      .form-input-base {
+        @apply block w-full px-4 py-3 border border-slate-300 rounded-lg shadow-sm placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:border-sky-500 sm:text-sm transition-shadow;
+      }
+      .form-label-base {
+        @apply block text-sm font-medium text-slate-700 mb-1;
+      }
+      .btn-primary-base {
+        @apply w-full flex justify-center items-center px-4 py-3 border border-transparent text-base font-medium rounded-lg shadow-sm text-white bg-sky-600 hover:bg-sky-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-sky-500 disabled:bg-slate-300 disabled:text-slate-500 disabled:cursor-not-allowed transition-colors;
+      }
+      .btn-secondary-base {
+        @apply w-full flex justify-center items-center px-4 py-3 border border-slate-300 text-base font-medium rounded-lg shadow-sm text-slate-700 bg-white hover:bg-slate-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-sky-500 disabled:bg-slate-100 disabled:text-slate-400 disabled:cursor-not-allowed transition-colors;
+      }
+    </style>
+
+<link rel="stylesheet" href="/index.css">
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.1.0/",
+    "react": "https://esm.sh/react@^19.1.0",
+    "react-router-dom": "https://esm.sh/react-router-dom@^7.6.2",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.0/",
+    "@google/genai": "https://cdn.jsdelivr.net/npm/@google/genai@1.4.0/+esm",
+    "jspdf-autotable": "https://esm.sh/jspdf-autotable@^5.0.2",
+    "jspdf": "https://esm.sh/jspdf@^3.0.1",
+    "chart.js/": "https://esm.sh/chart.js@^4.4.9/"
+  }
+}
+</script>
+  <script type="module" crossorigin src="/assets/index-Bjhsy6f5.js"></script>
+</head>
+  <body class="bg-slate-100">
+    <div id="root"></div>
+  </body>
+</html>
