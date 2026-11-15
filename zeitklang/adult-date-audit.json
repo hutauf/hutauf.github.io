@@ -1,0 +1,104 @@
+[
+  {
+    "id": "a044",
+    "before": {
+      "artist": "Roxette",
+      "title": "It Must Have Been Love",
+      "year": 1987,
+      "tag": "Pop",
+      "id": "a044"
+    },
+    "after": {
+      "artist": "Roxette",
+      "title": "The Look",
+      "year": 1988,
+      "tag": "Pop",
+      "id": "a044"
+    }
+  },
+  {
+    "id": "a062",
+    "before": {
+      "artist": "Whigfield",
+      "title": "Saturday Night",
+      "year": 1994,
+      "tag": "Dance",
+      "id": "a062"
+    },
+    "after": {
+      "artist": "Whigfield",
+      "title": "Saturday Night",
+      "year": 1992,
+      "tag": "Dance",
+      "id": "a062"
+    }
+  },
+  {
+    "id": "a071",
+    "before": {
+      "artist": "Scatman John",
+      "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+      "year": 1995,
+      "tag": "Dance",
+      "id": "a071"
+    },
+    "after": {
+      "artist": "Scatman John",
+      "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+      "year": 1994,
+      "tag": "Dance",
+      "id": "a071"
+    }
+  },
+  {
+    "id": "a114",
+    "before": {
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone",
+      "year": 1999,
+      "tag": "Dance",
+      "id": "a114"
+    },
+    "after": {
+      "artist": "Alice Deejay",
+      "title": "Better Off Alone",
+      "year": 1998,
+      "tag": "Dance",
+      "id": "a114"
+    }
+  },
+  {
+    "id": "a134",
+    "before": {
+      "artist": "Atomic Kitten",
+      "title": "Whole Again",
+      "year": 2000,
+      "tag": "Pop",
+      "id": "a134"
+    },
+    "after": {
+      "artist": "Atomic Kitten",
+      "title": "Eternal Flame",
+      "year": 2001,
+      "tag": "Pop",
+      "id": "a134"
+    }
+  },
+  {
+    "id": "a168",
+    "before": {
+      "artist": "Evanescence",
+      "title": "My Immortal",
+      "year": 2003,
+      "tag": "Rock",
+      "id": "a168"
+    },
+    "after": {
+      "artist": "Evanescence",
+      "title": "Going Under",
+      "year": 2003,
+      "tag": "Rock",
+      "id": "a168"
+    }
+  }
+]

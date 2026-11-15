@@ -1,0 +1,131 @@
+{
+  "method": "Curated German-family audience set. year is first release of named recording including album release before single. Sources below verify selected higher-risk dates; remaining entries are curated and not individually source-audited. Streaming availability and clean/explicit flags still require provider lookup.",
+  "sources": [
+    {
+      "ids": [
+        "k001"
+      ],
+      "url": "https://www.officialcharts.com/songs/tones-i-dance-monkey/",
+      "note": "2019 chart entry; original single year 2019"
+    },
+    {
+      "ids": [
+        "k061"
+      ],
+      "url": "https://music.apple.com/us/song/1096694871",
+      "note": "Chöre on TAPE released June 3, 2016"
+    },
+    {
+      "ids": [
+        "k081"
+      ],
+      "url": "https://music.apple.com/us/song/1440636758",
+      "note": "Lass jetzt los German film soundtrack November 29, 2013"
+    },
+    {
+      "ids": [
+        "k079"
+      ],
+      "url": "https://music.apple.com/us/song/1440809137",
+      "note": "Schokolade September 21, 2012"
+    },
+    {
+      "ids": [
+        "k080"
+      ],
+      "url": "https://music.apple.com/us/song/1617618288",
+      "note": "Mädchen gegen Jungs soundtrack January 15, 2016"
+    },
+    {
+      "ids": [
+        "k083"
+      ],
+      "url": "https://music.apple.com/us/song/1487751246",
+      "note": "Wo noch niemand war November 14, 2019"
+    },
+    {
+      "ids": [
+        "k090"
+      ],
+      "url": "https://music.apple.com/us/song/1594677759",
+      "note": "Surface Pressure November 19, 2021"
+    },
+    {
+      "ids": [
+        "k092"
+      ],
+      "url": "https://music.apple.com/us/song/1436091877",
+      "note": "This Is Me October 27, 2017"
+    },
+    {
+      "ids": [
+        "k093"
+      ],
+      "url": "https://music.apple.com/us/song/1299856905",
+      "note": "A Million Dreams December 8, 2017"
+    },
+    {
+      "ids": [
+        "k059"
+      ],
+      "url": "https://music.apple.com/us/song/1689433299",
+      "note": "Sunroof December 3, 2021, before 2022 breakthrough"
+    },
+    {
+      "ids": [
+        "k066"
+      ],
+      "url": "https://music.apple.com/us/song/693945749",
+      "note": "Ich lass für dich das Licht an first on Immer in Bewegung September 20, 2013; single 2014"
+    },
+    {
+      "ids": [
+        "k028"
+      ],
+      "url": "https://music.apple.com/us/album/beautiful-things-single/1724488123",
+      "note": "Beautiful Things January 18, 2024"
+    },
+    {
+      "ids": [
+        "k020"
+      ],
+      "url": "https://music.apple.com/us/song/1742275653",
+      "note": "Stargazing May 10, 2024"
+    },
+    {
+      "ids": [
+        "k060"
+      ],
+      "url": "https://music.apple.com/us/song/1732802340",
+      "note": "Belong Together February 16, 2024"
+    },
+    {
+      "ids": [
+        "k096"
+      ],
+      "url": "https://johnnorum.se/the-final-countdown-1986/",
+      "note": "Official band member discography, 1986"
+    },
+    {
+      "ids": [
+        "k085"
+      ],
+      "url": "https://music.apple.com/us/song/1452873021",
+      "note": "Original ToyStory soundtrack recording November19,1995."
+    },
+    {
+      "ids": [
+        "k064"
+      ],
+      "url": "https://music.apple.com/us/song/1436856185",
+      "note": "194 Länder first album release November16,2018; single2019."
+    },
+    {
+      "ids": [
+        "k049"
+      ],
+      "url": "https://music.apple.com/us/song/1055074640",
+      "note": "CheapThrills original solo first released December17,2015; album2016."
+    }
+  ]
+}

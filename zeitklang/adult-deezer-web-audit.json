@@ -1,0 +1,42 @@
+{
+  "verified_original_or_studio": [
+    "a048",
+    "a049",
+    "a050",
+    "a061",
+    "a113",
+    "a129",
+    "a131",
+    "a134",
+    "a138",
+    "a169",
+    "a202",
+    "a207",
+    "a209",
+    "a227",
+    "a228",
+    "a244",
+    "a246",
+    "a252",
+    "a260",
+    "a265",
+    "a283",
+    "a284"
+  ],
+  "unresolved": [
+    "a097",
+    "a221",
+    "a285"
+  ],
+  "leads": {
+    "a097": "https://widget.deezer.com/widget/light/track/131228030?tracklist=false (actual embed from Radia.sk; direct page inaccessible). Also Deezer album496260001 contains original attrack2, ShortEdittrack1 accordingtoMusicBrainz.",
+    "a221": "Original Life in Cartoon Motion album; officialsmartlink mika.lnk.to/gracekelly has dynamiclinks not exposed inwebreader.",
+    "a285": "Originalsingle ISRCUSRC11600684, duration3:56. Avoidinstrumental andFilmVersion."
+  },
+  "notes": [
+    "API links replaced only when actual Deezer page confirmed artist and original or studio recording.",
+    "a050 verified 1991 studio recording remastered2021.",
+    "a227 Version Revisited is the original2007 hit mix.",
+    "a265 Studio Recording From The Voice Performance is original2011 studio hit, notlive."
+  ]
+}
